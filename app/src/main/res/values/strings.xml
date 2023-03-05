@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">TreintaDias</string>
+
+    <!-- Top bar -->
+    <string name="top_bar">30 días</string>
+
+    <!-- Days -->
+    <string name="day1">día 1</string>
+    <string name="day2">día 2</string>
+    <string name="day3">día 3</string>
+    <string name="day4">día 4</string>
+    <string name="day5">día 5</string>
+    <string name="day6">día 6</string>
+    <string name="day7">día 7</string>
+    <string name="day8">día 8</string>
+    <string name="day9">día 9</string>
+    <string name="day10">día 10</string>
+    <string name="day11">día 11</string>
+    <string name="day12">día 12</string>
+    <string name="day13">día 13</string>
+    <string name="day14">día 14</string>
+    <string name="day15">día 15</string>
+    <string name="day16">día 16</string>
+    <string name="day17">día 17</string>
+    <string name="day18">día 18</string>
+    <string name="day19">día 19</string>
+    <string name="day20">día 20</string>
+    <string name="day21">día 21</string>
+    <string name="day22">día 22</string>
+    <string name="day23">día 23</string>
+    <string name="day24">día 24</string>
+    <string name="day25">día 25</string>
+    <string name="day26">día 26</string>
+    <string name="day27">día 27</string>
+    <string name="day28">día 28</string>
+    <string name="day29">día 29</string>
+    <string name="day30">día 30</string>
+
+    <!-- Title days -->
+    <string name="t1">Lorem Ipsum</string>
+    <string name="t2">Lorem Ipsum</string>
+    <string name="t3">Lorem Ipsum</string>
+    <string name="t4">Lorem Ipsum</string>
+    <string name="t5">Lorem Ipsum</string>
+    <string name="t6">Lorem Ipsum</string>
+    <string name="t7">Lorem Ipsum</string>
+    <string name="t8">Lorem Ipsum</string>
+    <string name="t9">Lorem Ipsum</string>
+    <string name="t10">Lorem Ipsum</string>
+    <string name="t11">Lorem Ipsum</string>
+    <string name="t12">Lorem Ipsum</string>
+    <string name="t13">Lorem Ipsum</string>
+    <string name="t14">Lorem Ipsum</string>
+    <string name="t15">Lorem Ipsum</string>
+    <string name="t16">Lorem Ipsum</string>
+    <string name="t17">Lorem Ipsum</string>
+    <string name="t18">Lorem Ipsum</string>
+    <string name="t19">Lorem Ipsum</string>
+    <string name="t20">Lorem Ipsum</string>
+    <string name="t21">Lorem Ipsum</string>
+    <string name="t22">Lorem Ipsum</string>
+    <string name="t23">Lorem Ipsum</string>
+    <string name="t24">Lorem Ipsum</string>
+    <string name="t25">Lorem Ipsum</string>
+    <string name="t26">Lorem Ipsum</string>
+    <string name="t27">Lorem Ipsum</string>
+    <string name="t28">Lorem Ipsum</string>
+    <string name="t29">Lorem Ipsum</string>
+    <string name="t30">Lorem Ipsum</string>
+
+    <!-- Description -->
+    <string name="desc1">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc2">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque</string>
+    <string name="desc3">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque</string>
+    <string name="desc4">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc5">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc6">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc7">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc8">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc9">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc10">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc11">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque</string>
+    <string name="desc12">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc13">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque</string>
+    <string name="desc14">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque</string>
+    <string name="desc15">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc16">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc17">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc18">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque</string>
+    <string name="desc19">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque</string>
+    <string name="desc20">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc21">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque</string>
+    <string name="desc22">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc23">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc24">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque</string>
+    <string name="desc25">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc26">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque</string>
+    <string name="desc27">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque</string>
+    <string name="desc28">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc29">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque.</string>
+    <string name="desc30">Lorem ipsum dolor sit amet consectetur adipiscing elit quis imperdiet, proin fusce per natoque netus congue urna neque</string>
+</resources>
